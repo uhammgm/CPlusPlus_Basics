@@ -1,0 +1,75 @@
+# Ignore C++ object files
+*.o
+*.obj
+
+# Ignore C++ executable files
+*.exe
+*.out
+*.app
+
+# Ignore C++ libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.dylib
+*.so
+
+# Ignore C++ debugging files
+*.dSYM/
+*.debug
+
+# Ignore C++ profiling files
+*.gcda
+*.gcno
+*.gcov
+
+# Ignore C++ precompiled headers
+*.gch
+*.pch
+
+# Ignore C++ test result files
+*.testresult
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore backup files
+*.bak
+*.old
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+.vscode/
+
+# Ignore build directories
+build/
+cmake-build-*/
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore package files
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
